@@ -1,0 +1,11 @@
+Date,Region,Product,Sales,Profit
+2024-01-05,East,Laptop,900,100
+2024-01-06,West,Laptop,,120
+2024-01-07,East,Phone,400,80
+2024-01-08,North,Tablet,550,
+2024-01-09,South,Laptop,700,150
+2024-01-10,,Tablet,600,130
+2024-01-11,East,Phone,420,70
+2024-01-12,West,Phone,410,60
+2024-01-13,North,Laptop,850,110
+2024-01-14,South,Tablet,580,90
